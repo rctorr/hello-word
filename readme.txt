@@ -1,3 +1,3 @@
-Este es un archivo para el wrokshop de git-it
+Este es un archivo para el workshop de git-it
 Ahora solicitan agregar una línea más
 
